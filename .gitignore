@@ -1,0 +1,18 @@
+# Power BI
+*.pbix
+*.pbit
+
+# Excel temporary files
+~$*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
